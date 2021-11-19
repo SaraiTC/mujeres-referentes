@@ -1,12 +1,7 @@
-@font-face {
-    font-family: "ButlerStencil";
-    src: url("mujeres-referentes/fonts/ButlerStencil.woff")
-}
-
-@font-face {
-    font-family: "Jost-Medium";
-    src: url(/fonts/Jost-Medium.ttf)
-}
+@import url('http://fonts.cdnfonts.com/css/butler-stencil');
+                                                                    
+                                                
+@import url('http://fonts.cdnfonts.com/css/jost');
 
 * {
     margin: 0;
@@ -20,7 +15,7 @@ body {
     padding: 4em;
     font-family: sans-serif;
     line-height: 1.15;
-    font-family: 'Jost-Medium';
+    font-family: 'Jost*', sans-serif;;
 }
 
 .article-header {
@@ -67,7 +62,7 @@ body {
 }
 
 .article-header {
-    font-family: 'ButlerStencil';
+    font-family: 'Butler Stencil', sans-serif;;
     color: #001628;
     margin-top: 2%;
     margin-bottom: 5%;

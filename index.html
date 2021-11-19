@@ -7,6 +7,199 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mujeres referentes</title>
     <link rel="stylesheet" href="/css/styles.css" />
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+@import url('https://fonts.googleapis.com/css2?family=Elsie&display=swap');
+body {
+    background-color: #3B0918;
+    font-family: 'Roboto';
+}
+
+.product-filter {
+    display: flex;
+    padding: 30px 0;
+    margin: 25px;
+}
+
+.product-filter h1 {
+    flex-grow: 1;
+    color: #BE5E3E;
+    font-family: 'Elsie';
+    font-size: 50px;
+}
+
+.sort {
+    display: flex;
+}
+
+.collection-sort {
+    display: flex;
+    flex-direction: column;
+}
+
+.collection-sort:first-child {
+    padding-right: 20px;
+}
+
+label {
+    color: #B8390E;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 2em;
+    text-transform: uppercase;
+}
+
+select {
+    background-color: #BE5E3E;
+    color: black;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 8px;
+    margin: 0 10px 0 10px;
+}
+
+.product-card {
+    padding: 2%;
+    flex-grow: 1;
+    flex-basis: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    background: #B8390E url(/img/45-degree-fabric-light.png);
+    border-radius: 20px;
+    margin: 5px 10px 5px 10px;
+}
+
+.products .product-card:nth-child(7) {
+    background: url(https://images.pexels.com/photos/10221121/pexels-photo-10221121.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat;
+    background-size: cover;
+    border-radius: 1px;
+    padding: 0;
+    overflow: hidden;
+    flex-direction: row;
+}
+
+.bloque-divisor {
+    background-color: #3B0918;
+    display: inline-block;
+    position: relative;
+    width: 260px;
+    height: 160px;
+    top: 2%;
+}
+
+#separador>h5 {
+    color: #FFF3D9;
+    position: relative;
+    top: 30%;
+    right: 65%;
+    width: 100px;
+    display: flex;
+    font-size: 20px;
+}
+
+.bloque-divisor>h6 {
+    color: #FFF3D9;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    letter-spacing: 2px;
+    font-size: 25px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.product-image img {
+    max-width: 100%;
+}
+
+.product-info {
+    margin-top: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.product-info>h5 {
+    font-family: 'Roboto', sans-serif;
+    color: #3B0918;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.product-info>h6 {
+    font-family: 'Roboto';
+    font-style: oblique;
+    margin-top: 5%;
+    color: #3B0918;
+    font-size: 15px;
+}
+
+.myButton {
+    background: linear-gradient(to right, #3B0918 5%, #BE5E3E 100%);
+    background-color: #3B0918;
+    border-radius: 5px;
+    border: 1px solid #3B0918;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFF3D9;
+    font-family: 'Roboto';
+    font-size: 15px;
+    padding: 11px 23px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.myButton:hover {
+    color: #FFF3D9;
+    transform: scale(90%);
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.products .product-card:first-child,
+.products .product-card:nth-child(2) {
+    flex: 2 46%;
+}
+
+@media (max-width: 920px) {
+    .product-card {
+        flex: 1 21%;
+    }
+}
+
+@media (max-width: 600px) {
+    .product-card {
+        flex: 1 46%;
+    }
+}
+
+@media (max-width: 480px) {
+    .product-filter {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    .product-filter {
+        flex-direction: column;
+    }
+    .sort {
+        align-self: flex-start;
+    }
+}
+    </style>
 </head>
 
 <body>

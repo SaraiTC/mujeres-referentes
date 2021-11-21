@@ -1,12 +1,3 @@
-@font-face {
-    font-family: "ButlerStencil";
-    src: url(fonts/ButlerStencil.woff)
-}
-
-@font-face {
-    font-family: "Jost-Medium";
-    src: url(fonts//Jost-Medium.ttf)
-}
 
 * {
     margin: 0;

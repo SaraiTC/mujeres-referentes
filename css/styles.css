@@ -9,9 +9,8 @@ body {
     background: #001628;
     color: #746C70;
     padding: 4em;
-    font-family: sans-serif;
     line-height: 1.15;
-    font-family: 'Jost-Medium';
+    font-family: 'Jost*';
 }
 
 .article-header {
@@ -58,7 +57,7 @@ body {
 }
 
 .article-header {
-    font-family: 'ButlerStencil';
+    font-family: 'Butler Stencil';
     color: #001628;
     margin-top: 2%;
     margin-bottom: 5%;

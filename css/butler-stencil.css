@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Butler Stencil';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Butler Stencil'), url('https://fonts.cdnfonts.com/s/16242/Butler_Regular_Stencil.woff') format('woff');
+}
+@font-face {
+    font-family: 'Butler Stencil';
+    font-style: normal;
+    font-weight: 250;
+    src: local('Butler Stencil'), url('https://fonts.cdnfonts.com/s/16242/Butler_Ultra_Light_Stencil.woff') format('woff');
+}
+@font-face {
+    font-family: 'Butler Stencil';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Butler Stencil'), url('https://fonts.cdnfonts.com/s/16242/Butler_Light_Stencil.woff') format('woff');
+}
+@font-face {
+    font-family: 'Butler Stencil';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Butler Stencil'), url('https://fonts.cdnfonts.com/s/16242/Butler_Medium_Stencil.woff') format('woff');
+}
+@font-face {
+    font-family: 'Butler Stencil';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Butler Stencil'), url('https://fonts.cdnfonts.com/s/16242/Butler_Bold_Stencil.woff') format('woff');
+}
+@font-face {
+    font-family: 'Butler Stencil';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Butler Stencil'), url('https://fonts.cdnfonts.com/s/16242/Butler_ExtraBold_Stencil.woff') format('woff');
+}
+@font-face {
+    font-family: 'Butler Stencil';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Butler Stencil'), url('https://fonts.cdnfonts.com/s/16242/Butler_Black_Stencil.woff') format('woff');
+}
+
+

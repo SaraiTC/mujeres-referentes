@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost400Book.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost400BookItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost100Hairline.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 100;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost100HairlineItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost200Thin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 200;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost200ThinItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost300Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost300LightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost500Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost500MediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost600Semi.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost600SemiItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost700Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost700BoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost800Heavy.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 800;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost800HeavyItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost900Black.woff') format('woff');
+}
+@font-face {
+    font-family: 'Jost*';
+    font-style: italic;
+    font-weight: 900;
+    src: local('Jost*'), url('https://fonts.cdnfonts.com/s/21656/Jost900BlackItalic.woff') format('woff');
+}
+
+

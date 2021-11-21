@@ -1,7 +1,12 @@
-@import url('http://fonts.cdnfonts.com/css/butler-stencil');
-                                                                    
-                                                
-@import url('http://fonts.cdnfonts.com/css/jost');
+@font-face {
+    font-family: "ButlerStencil";
+    src: url(fonts/ButlerStencil.woff)
+}
+
+@font-face {
+    font-family: "Jost-Medium";
+    src: url(fonts//Jost-Medium.ttf)
+}
 
 * {
     margin: 0;
@@ -15,7 +20,7 @@ body {
     padding: 4em;
     font-family: sans-serif;
     line-height: 1.15;
-    font-family: 'Jost*', sans-serif;;
+    font-family: 'Jost-Medium';
 }
 
 .article-header {
@@ -62,7 +67,7 @@ body {
 }
 
 .article-header {
-    font-family: 'Butler Stencil', sans-serif;;
+    font-family: 'ButlerStencil';
     color: #001628;
     margin-top: 2%;
     margin-bottom: 5%;

@@ -1,4 +1,4 @@
-Creación de un Layout de con Grid.
+Creación de un Layout con Grid.
 
 - Siguiendo el tutorial de: https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/
 
